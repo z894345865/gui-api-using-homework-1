@@ -1,1 +1,1 @@
-# gui-api-using
+# please run run.py to use this program
