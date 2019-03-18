@@ -14,7 +14,7 @@ class trans():
         self.key = 'WWBPRjInI96ehr8d4qCw'
         self.url = 'http://api.fanyi.baidu.com/api/trans/vip/translate?'
         self.from_language = 'zh'
-        self.to_language = 'en'
+        self.to_language = 'zh'
 
     def change_fl(self, fl):
         self.from_language = fl
